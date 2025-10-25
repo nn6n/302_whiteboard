@@ -43,7 +43,7 @@
     "react-router-dom": "6.27.0",
     "react-toastify": "10.0.6",
     "socket.io-client": "4.7.2",
-    "vite-plugin-clean": "1.0.0",
+    "vite-plugin-clean": "2.0.0",
     "vite-plugin-html": "3.2.2"
   },
   "prettier": "@excalidraw/prettier-config",
